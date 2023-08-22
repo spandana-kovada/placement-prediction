@@ -64,5 +64,5 @@ In this project, I have used two classifiers :
 
 - For more details go to [Campus Placement Analysis and Prediction blog at medium.com.](https://medium.com/@shahilansari/campus-placement-analysis-and-prediction-cc765f9b9391)
 
-### [Copyright and license](#copyright-and-license)
+
 
